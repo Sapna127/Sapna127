@@ -66,7 +66,7 @@
   <a href="https://www.linkedin.com/in/sapna-kul-84453a215/">
   <img align="center"  width="28px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  />
 </a>
-<a href="https://twitter.com/PrincetonDsouz4">
+<a href="https://twitter.com/dream299_">
   <img align="center" width="30px" src="https://cdn-icons-png.flaticon.com/128/733/733579.png" />
 </a>
  </div>
