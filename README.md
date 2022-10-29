@@ -6,8 +6,8 @@
 <div align="center">
 🎓 I’m an Open-Source enthusiast I am pursuing my Bachelors in Computer Science and Engineering. <br/>
 🌱 I’m currently learning ReactJs, UI/UX<br/>
-⭐️ I'm interested in every domain of tech in general.
- 🪄 I love passing my time by scribbling wonderful rhymes
+⭐️ I'm interested in every domain of tech in general.<br/>
+🪄 I love passing my time by scribbling wonderful rhymes<br/>
 <div/>
 
 # My Coding Profiles 🌟
