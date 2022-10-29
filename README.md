@@ -51,8 +51,7 @@
 # 🔥 Streak stats
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Sapna127&theme=algolia&show_icons=true&hide_border=true&border_radius=10%&count_private=true&include_all_commits=true)
 
-  
-![snake gif](https://github.com/Sapna127/Sapna127/blob/output/github-contribution-grid-snake.svg)
+ ![snake gif](https://github.com/Sapna127/Sapna127/blob/output/github-contribution-grid-snake.svg)
  
 ![Sapna's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sapna127&theme=react-dark)
 
