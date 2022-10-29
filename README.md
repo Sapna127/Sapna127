@@ -6,17 +6,18 @@
 <div align="center">
 🎓 I’m an Open-Source enthusiast I am pursuing my Bachelors in Computer Science and Engineering. <br/>
 🌱 I’m currently learning ReactJs, UI/UX<br/>
-⭐️ I'm interested in competitive programming and web development.
+⭐️ I'm interested in every domain of tech in general.
+ 🪄 I love passing my time by scribbling wonderful rhymes
 <div/>
 
-# My Coding Profiles
+# My Coding Profiles 🌟
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/dream_aires)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/dre/practice)
 [![Codechef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/dream299)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/dream_aires)
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/dream_aires?f0a28=1)
 
- # Languages & 🛠 Tools I use :
+ # Languages &  Tools I use 🛠
 
 [![](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
 [![](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=FFD43B)]()<br/>
@@ -33,7 +34,7 @@
 [![](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)]()
 [![Github](http://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sapna127)
 
-## Design Tools 🎨 :
+## Design Tools 🎨 
 [![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)]()
 [![](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)]()
 [![](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)]()
@@ -45,7 +46,7 @@
 <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sapna127&theme=algolia&border_radius=40%&show_icons=true&hide_border=true"><br/>
 </div>  
   
-#  My Statistics 
+#  My Statistics 👀
   
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=Sapna127&theme=algolia&count_private=true&border_radius=10%&show_icons=true&hide_border=true&&show_icons=true&count_private=true&include_all_commits=true)
 # 🔥 Streak stats
@@ -56,11 +57,11 @@
 ![Sapna's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sapna127&theme=react-dark)
 
 
-<!--   
-#  Recently played music
-([[https://spotify-github-profile.vercel.app/api/view.svg?uid=co6g4b9s0qeskuan8mco5sf3p&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=co6g4b9s0qeskuan8mco5sf3p&cover_image=true&theme=novatorem&show_offline=false&bar_color=4e51b1&bar_color_cover=false)]]) -->
   
-#  Connect with me!!!
+#  Soul recites within music 🎶
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=co6g4b9s0qeskuan8mco5sf3p&cover_image=true&theme=novatorem&show_offline=true&bar_color=2c46af&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=co6g4b9s0qeskuan8mco5sf3p&redirect=true)
+  
+#  Connect with me ✨
 <div align="center">  
   <a href="https://www.linkedin.com/in/sapna-kul-84453a215/">
   <img align="center"  width="28px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  />
