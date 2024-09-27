@@ -4,8 +4,7 @@
 
 <h1 align="center"> About Me 🚀</h1>
 <div align="center">
-🎓 I’m an Open-Source enthusiast I am pursuing my Bachelors in Computer Science and Engineering. <br/>
-🌱 I’m currently learning ReactJs, UI/UX<br/>
+🎓 I am pursuing my Bachelors in Computer Science and Engineering. <br/>
 ⭐️ I'm interested in every domain of tech in general.<br/>
 🪄 I love passing my time by scribbling wonderful rhymes<br/>
 <div/>
@@ -76,9 +75,9 @@
 <a href="https://medium.com/@kulsapna2210002">
   <img align="center" width="40px" src="https://user-images.githubusercontent.com/91309280/198827516-50b3358f-86df-49d6-8b1c-8a182716b4d0.png" />
 </a>
-<a href="https://www.blogger.com/profile/08262086597491702">
+<!-- <a href="https://www.blogger.com/profile/08262086597491702">
   <img align="center" width="40px" src="https://user-images.githubusercontent.com/91309280/198827749-6dda7a25-bf5a-4f00-b8f5-53cfa696dba0.png" />
-</a>
+</a> -->
 <a href="https://www.quora.com/profile/Sapna-296">
   <img align="center" width="40px" src="https://user-images.githubusercontent.com/91309280/198827818-a97757f0-f3fd-4e9f-969d-83ec1fefe791.png" />
 </a>
